@@ -1,5 +1,5 @@
 # About this repository
-bla bla bla
+Here are the experiments associated with the final project in RAF620M at the University of Iceland.
 
 # Data
 The data used in the project can be downloaded from: 
